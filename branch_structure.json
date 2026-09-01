@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore/web-lucide-react-1",
+    "docs/122-web-architecture-packages-states",
+    "docs/sep24-interactive-handoff-rfc",
+    "fix/attester-ambiguous-contract-errors",
+    "fix/main-typecheck-dest-union",
+    "fix/registry-resolver-protocol-gate",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "chore/web-lucide-react-1": "main",
+    "docs/122-web-architecture-packages-states": "main",
+    "docs/sep24-interactive-handoff-rfc": "main",
+    "fix/attester-ambiguous-contract-errors": "main",
+    "fix/main-typecheck-dest-union": "main",
+    "fix/registry-resolver-protocol-gate": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "chore/web-lucide-react-1",
+    "docs/122-web-architecture-packages-states",
+    "docs/sep24-interactive-handoff-rfc",
+    "fix/attester-ambiguous-contract-errors",
+    "fix/main-typecheck-dest-union",
+    "fix/registry-resolver-protocol-gate",
+    "origin"
+  ]
+}
